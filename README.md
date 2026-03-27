@@ -26,4 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harishganesan123/LEETS/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harishganesan123/LEETS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
