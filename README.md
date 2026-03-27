@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harishganesan123/LEETS/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/harishganesan123/LEETS/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/harishganesan123/LEETS/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harishganesan123/LEETS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
